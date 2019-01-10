@@ -1,5 +1,4 @@
 
-
 # Github - Apredendo como funciona os comandos do github
 
 # Comados
@@ -52,5 +51,6 @@ Mostra só a quantidade de commits e a pessoa.
 
 Mostra de forma gráfica, os branch
 
+# git push -u origin master
 
-
+Enviar
