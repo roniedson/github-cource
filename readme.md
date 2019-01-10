@@ -26,6 +26,7 @@ Esse comando adiciona os arquivos para serem submetidos
 
 # git commit -m "mensagem"
 
-O commit pega todos os arquivos e cria um snapshot dos arquivos, é importante colocar um mensagem das alterações
+O commit pega todos os arquivos e cria um snapshot dos arquivos, é importante colocar um mensagem das alterações.
+
 
 
