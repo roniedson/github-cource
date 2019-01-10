@@ -20,13 +20,37 @@ O comando git init inicializa o repositório git.
 
 O comando git status mostra o status atual do repositório
 
-# git add
+# git add 
 
-Esse comando adiciona os arquivos para serem submetidos
+Esse comando adiciona os arquivos para serem submetidos, se colocar o ponto (.) no final adiciona todos os arquivos ao diretorio.
 
 # git commit -m "mensagem"
 
 O commit pega todos os arquivos e cria um snapshot dos arquivos, é importante colocar um mensagem das alterações.
+
+# git log
+
+Mostra uma hash do commit, o author etc.
+
+# git log --decorate
+
+Mostra algumas informações de qual branch para qual branch, que tags foram geradas.
+
+# git log --author="authot"
+
+Filtra pelo author, listar todos os commits efetuados pelo author.
+
+# git shortlog
+
+Mostra em ordem alfabetica, quais os authors, quantidades de commits
+
+# git shortlog -sn
+
+Mostra só a quantidade de commits e a pessoa.
+
+# git log --graph
+
+Mostra de forma gráfica, os branch
 
 
 
